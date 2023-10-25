@@ -25,6 +25,12 @@ main{
     box-shadow: 2px 3px 3px rgba(0,0,0,0.75);
 
 }
+h3{
+    
+    text-align: center;
+    /* border: 1px solid red; */
+    padding: 3px;
+}
 input{
     cursor: pointer;
 }
